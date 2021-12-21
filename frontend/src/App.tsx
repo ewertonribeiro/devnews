@@ -1,4 +1,4 @@
-
+import { SessionC } from './Contexts/SessionContext';
 
 import './App.scss';
 
@@ -6,9 +6,11 @@ import {Routes} from './routes/routes'
 function App() {
 
     return (
-    
-   <Routes/>
-    
+    <SessionC>
+         <Routes/>
+
+    </SessionC>
+
   );
 }
 
