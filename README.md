@@ -1,17 +1,10 @@
 <p align="center">
-  <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/3a34d644047e0ff7f4389edfb2d39ceda62fd8f7/.github/logo.svg" width="160px">
+  <h1 align="center">@DevNews</h1>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
-  
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
-</p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="https://raw.githubusercontent.com/ewertonribeiro/devnews/frontend/src/assets/2021-12-21.png" />
+    <img width="960" alt="2021-12-21" src="https://user-images.githubusercontent.com/90481197/147110031-fde34059-49f0-455f-aaab-7e239ca1b9c5.png">
 </h1>
 
 <br>
@@ -20,16 +13,20 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='15' height='15'/>[React](https://reactjs.org)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='15' height='15' />[MongoDb](https://www.mongodb.com/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='15' height='15' />[NodeJs](https://nodejs.org/en/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width='15' height='15'/>[Express](https://expressjs.com/pt-br/)
+- ![icons8-stripe-16](https://user-images.githubusercontent.com/90481197/147111958-0cf05086-1859-418a-9dd1-570160e01814.png)[Stripe](https://stripe.com/br)
+
 
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/ewertonribeiro/letmeask
-$ cd letmeask
+$ git clone https://github.com/ewertonribeiro/devnews
+$ cd devnews
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -38,22 +35,16 @@ Para iniciá-lo, siga os passos abaixo:
 $ yarn
 # Iniciar o projeto
 $ yarn start
+#Fazer o mesmo para a pasta backend
+$yarn dev
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
-
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+E o servidor em http://localhost:5000.
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+Devnews e um projeto de um blog para consumir artigos relacionados a programação,mas para ser consumido somente por assinantes!!!
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 📝 License
 
