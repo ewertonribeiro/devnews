@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="frontend/src/assets/2021-12-21.png" />
+    <img alt="Letmeask" src="https://raw.githubusercontent.com/ewertonribeiro/devnews/frontend/src/assets/2021-12-21.png" />
 </h1>
 
 <br>
