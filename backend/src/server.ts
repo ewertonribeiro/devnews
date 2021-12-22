@@ -3,6 +3,7 @@ import express from 'express'
 import { StripeRoutes} from './routes/Stripe.routes';
 import { UserRoutes } from './routes/user.routes';
 
+
 import cors from 'cors'
 //Connect to MongoDB
 import  './DB/ConnectDB';
